@@ -1,4 +1,4 @@
-# Um clone do app Club House
+# Website feito em React
 
 ## Demo
 <img src="./src/images/demo.png" alt="Exemplo">
